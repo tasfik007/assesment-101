@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://tasfik007:tasfik007@authappdb.x2snn.mongodb.net/AuthAppDB?retryWrites=true&w=majority",
+    "jwtToken": "myjsontoken"
+}

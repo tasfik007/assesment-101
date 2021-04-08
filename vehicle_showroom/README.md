@@ -4,7 +4,7 @@
 - At first git clone the assesment-101 repository in your local machine. 
 - Open the vehicle_showroom project in any Java IDE (NetBeans/Eclipse/IntelliJ)
 - Then open Main.java file
-- Run the Main.java file by pressing <kbd>shift</kbd>+<kbd>f6</kbd>
+- Run the Main.java file by pressing <kbd>shift</kbd>+<kbd>f6</kbd> if you are on NetBeans IDE.
 
 ## Things to note:
 * A VehicleShowRoom object created at first.

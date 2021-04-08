@@ -6,7 +6,7 @@
 * And the backend (node server) will be running in port 5000.
 * My mongodb connection strings are included to test the application.
 
-## How to run the application in windows:
+## How to run the application in windows?
 1. At first git clone the assesment-101 repository in your local machine.
 2. After that CD to AuthApp and open CMD.
 3. Then run "npm install" command to install the node app's dependencies.

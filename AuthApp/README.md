@@ -16,8 +16,8 @@
 7. You can use the below credentials to get into the system:
     * Email: rahul@gmail.com
     * Password: rahul12345
-8. After successful login, a welcome screen at the url "/profile" can be seen with the logged in user's name.
-9. User can logout from this page, and will be directed to root url "/", which is a login screen.
+8. After successful login, a welcome screen at the url "/profile" can be seen with the logged in user's name. If unsuccessful it will redirect to an error page.
+9. User can logout from this page, and will be directed to root url "/", which is a login screen. If unsuccessful it will redirect to an error page.
 10. By clicking in the "Create account?" link new user can be created.
 
 ## Bonus factors:

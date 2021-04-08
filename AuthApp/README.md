@@ -27,4 +27,5 @@
 4. Version Control: Done using git and github.
 5. Database: MongoDB Atlas platform used to integrate with MongoDB database.
 6. Object Relation Mapping: Done with the help of Mongoose library.
+7. Password is encrypted using bcrypt before saving user in database.
 

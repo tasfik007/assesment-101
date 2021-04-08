@@ -13,9 +13,9 @@
 - After that a particular vehicle was removed from the showroom.
 - Then a Menu object is created.
 - The methods under the menu object will walk through a user to perform below mentioned operations:
-- - a. Add any type of vehicle in showroom.
-- - b. Remove any of the vehicles from showroom.
-- - c. Show the vehicle lists with details currently have in showroom.
-- - The regular expected visitor count of the vehicle showroom is 30.
+-- a. Add any type of vehicle in showroom.
+-- b. Remove any of the vehicles from showroom.
+-- c. Show the vehicle lists with details currently have in showroom.
+-- The regular expected visitor count of the vehicle showroom is 30.
 But whenever we add a new "Sports Vehicle" in the showroom the expected visitor
 count increase by 20.

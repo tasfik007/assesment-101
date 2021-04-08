@@ -1,5 +1,5 @@
 # Task-02: Build an Login Application.
-<img src="https://i.ibb.co/5xMkF2F/dsi-authapp.png" alt="authapp" width="350"/>
+<img src="https://i.ibb.co/b6bm7Nt/dsi-authapp.png" alt="authapp" width="350"/>
 
 ## Things to note:
 * The frontend (react) will be running in port 3000.

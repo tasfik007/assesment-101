@@ -1,7 +1,7 @@
 # Task-01: Make a Command Line System for Vehicle Showroom
 
 ## How to run?
-- Open the vehicle_showroom project in any Java IDE (NetBeans/Oracle/IntelliJ)
+- Open the vehicle_showroom project in any Java IDE (NetBeans/Eclipse/IntelliJ)
 - Then open Main.java file
 - Run the Main.java file by pressing <kbd>shift</kbd>+<kbd>f6</kbd>
 

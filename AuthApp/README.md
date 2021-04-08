@@ -22,11 +22,11 @@
 11. By clicking in the "Create account?" link new user can be created.
 
 ## Bonus factors:
-1. Responsive UI: Achieved through Bootstrap and custom CSS.
-2. Framework: Express framework is used to build the nodejs backend.
-3. Dependency Management: Done with the help of NPM module.
-4. Version Control: Done using git and github.
-5. Database: MongoDB Atlas platform used to integrate with MongoDB database.
-6. Object Relation Mapping: Done with the help of Mongoose library.
+1. **Responsive UI:** Achieved through Bootstrap and custom CSS.
+2. **Framework:** Express framework is used to build the nodejs backend.
+3. **Dependency Management:** Done with the help of NPM module.
+4. **Version Control:** Done using git and github.
+5. **Database:** MongoDB Atlas platform used to integrate with MongoDB database.
+6. **Object Relation Mapping:** Done with the help of Mongoose library.
 7. Password is encrypted using bcrypt before saving user in database.
 
